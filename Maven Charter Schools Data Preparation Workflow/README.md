@@ -13,3 +13,5 @@
 - Clean and shape fields
 - Combine and aggregate data
 - Share and update curated data sources
+
+![image](https://user-images.githubusercontent.com/49498445/118352110-4a7a4a80-b57d-11eb-87ef-b4ad2979f131.png)
